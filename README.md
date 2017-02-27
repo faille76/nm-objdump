@@ -3,11 +3,11 @@ Epitech project: Nm is an unix program that list symbols and Objdump displays in
 
 <--------->
 
-Usage: ./my_nm [option(s)] [file(s)] (a.out by default)
+Usage: ./my_nm [option(s)] [file(s)] (a.out by default)	
  -A
  -o
  --print-file-name
-		Display the file name before the nm's value.
+ 		Display the file name before the nm's value.
  -a
  --debug-syms
 		Display all symbols, even debugger-only symbols; normally these are not listed.
